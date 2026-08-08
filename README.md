@@ -8,6 +8,9 @@ the printed part.
 Version **0.2.0**. Model: [`saw_horse_bracket.scad`](saw_horse_bracket.scad).
 Remaining work: [`todo.md`](todo.md).
 
+**[Open in SCAD Studio](https://lizard-spock.co.uk/openscad-gui/?github=morganp/Openscad_Saw_Horse/saw_horse_bracket.scad)**
+- renders in the browser, no install needed.
+
 ![Assembled saw horse](renders/horse.png)
 
 ## How it works
@@ -99,7 +102,10 @@ Tough PLA, 4-5 perimeters, 25-40 percent infill.
 
 ## Usage
 
-Requires [BOSL2](https://github.com/BelfrySCAD/BOSL2).
+In the browser, no install:
+[SCAD Studio](https://lizard-spock.co.uk/openscad-gui/?github=morganp/Openscad_Saw_Horse/saw_horse_bracket.scad).
+
+Locally, requires [BOSL2](https://github.com/BelfrySCAD/BOSL2):
 
 ```bash
 openscad saw_horse_bracket.scad
